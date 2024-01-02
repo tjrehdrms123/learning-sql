@@ -1,6 +1,6 @@
 # Learing SQL <img src="./logo.jpg" align=left width="100" alt="Nest Logo" />
 
-> [Learing SQL](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B4640245615)책을 읽고 학습한 내용을 정리 합니다.
+> [Learing SQL](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B4640245615)책을 읽고 외적으로 학습한 내용을 정리 합니다.
 
 <br/>
 
@@ -30,7 +30,7 @@ SOURCE /<폴더위치>/sakila-db/sakila-data.sql
 
 <br/>
 
-# 🌿 목차
+# 🌿 추가적으로 학습한 내용
 
 ### 1장
 
